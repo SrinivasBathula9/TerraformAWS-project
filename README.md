@@ -1,5 +1,3 @@
-**Project:** 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Create Infrastructure on AWS using Terraform</title>
